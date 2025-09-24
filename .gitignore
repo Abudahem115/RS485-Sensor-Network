@@ -39,3 +39,20 @@
 
 # debug information files
 *.dwo
+
+# Arduino build files
+*.elf
+*.bin
+*.hex
+*.eep
+
+# Arduino IDE temp files
+*.ino.cpp
+*.out
+
+# PlatformIO build folder
+.pio/
+
+# OS junk
+.DS_Store
+Thumbs.db
